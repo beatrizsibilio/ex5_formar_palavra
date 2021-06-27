@@ -1,0 +1,29 @@
+/**/
+
+*{
+  text-align: center;
+}
+
+#cabecalho{
+  background-color: #A1A7AC;
+  border-bottom: solid #CCC 1px;
+  text-align: center;
+}
+
+h3{
+  color: white;
+  margin: 20px;
+}
+
+.btn{
+  border: solid white 1px;
+  margin-top: 20px;
+}
+
+body{
+  background-color: #CFD2D5;
+}
+
+p, #visor{
+  margin-top: 20px;
+}
