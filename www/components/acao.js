@@ -11,6 +11,8 @@ $(document).on("click",".letra", function(){
 });
 
 $(document).on("click","#x", function(){
+  var input = $('#visor');
+  input.val(input.val().slice(0, -1));
 });
 
 $(document).on("click","#limpar", function(){
